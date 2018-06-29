@@ -23,3 +23,5 @@ Notifications
 Stats
 
 Node Overview
+
+Search
