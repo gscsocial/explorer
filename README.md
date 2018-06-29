@@ -16,7 +16,7 @@ All information from the blockchain viewable
 
 Web Wallet
 
-Light Nodee Voting
+Light Node Voting
 
 Notifications
 
