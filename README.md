@@ -25,3 +25,18 @@ Stats
 Node Overview
 
 Search
+
+### How To Use
+# Requirements
+
+* node.js
+* yarn
+
+# Running
+
+```bash
+> yarn install
+> yarn start
+```
+
+
