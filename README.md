@@ -10,6 +10,7 @@
 
 GSC Explorer is a Block Explorer and Analytics Platform for GSC, a decentralized smart contracts platform.
 
+http://gscan.social/
 
 ### Features
 
